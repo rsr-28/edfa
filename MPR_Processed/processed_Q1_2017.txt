@@ -1,0 +1,728 @@
+i. macroeconomic outlook underneath current benign inflation conditions broad-based inflation pressures make inflation outlook 2017-18 challenging
+growth real gross added expected accelerate 2017-18 underpinned strong consumption demand investment activity remains muted external demand uncertain
+monetary policy framework ushered amendments reserve bank india rbi act monetary policy decision vested member monetary policy committee mpc
+decision lower policy repo rate 25 basis points bps time 2016 monetary policy report mpr mpc decided hold policy rate 2016 2017 meetings bi-monthly schedule
+features distinguish initial decisions regime
+calibrated shift policy stance accommodative neutral
+overwhelming preference waiting transitory effects demonetisation unsettled political climate globally
+decision unanimity
+consensus members ’ decisions driven individualistic approaches arriving revealed written public statements
+recent experience mpcs uk sweden brazil thailand czech republic hungary suggests rate decisions based unanimity chart i.1
+recent cases point decisions federal open market committee fomc 2016 2017 meetings bank england ’ mpc meetings october-february
+differences typically confined size change policy rate contesting overarching policy stance.1 existing research monetary policy decision making suggests divergences stem mpc members ’ policy preferences – relative weight price stability output stabilisation – reaction functions assessment expected economic conditions – evolution inflation output gaps.2,3 formative experience mpc india suggest similar policy preferences assessments outlook
+early
+analysis macroeconomic developments presented chapters explains inflation output growth undershot forecasts set 2016 mpr
+part deviations reflect impact demonetisation
+turning outlook recent domestic global events warrant revisions baseline assumptions initial conditions set 2016 mpr table i.1
+international crude oil prices fluctuated widely months hardening initially back agreement organisation petroleum exporting countries opec curtail production credible.4 recently prices eased shale production stepping inventories rising sizeably vast amount past supply.5 nonetheless oil prices ruling 10 cent level 46 barrel assumed 2016. domestic petrol diesel prices increased ₹5.5 litre ₹4.2 litre 2016 2017 cut ₹4.9 litre ₹3.5 litre effective 1 2017 chart i.2
+table i.1 baseline assumptions near-term projections variable 2016 mpr current 2017 mpr crude oil indian basket 46 barrel fy 2016-17 h2 50 barrel fy 2017-18 exchange rate ₹67/us current level monsoon normal 2016 normal 2017 global growth 3.1 cent 2016 3.4 cent 2017 3.4 cent 2017 3.6 cent 2018 fiscal deficit remain 2016-17 3.5 cent remain 2017-18 3.2 cent domestic macroeconomic/ structural policies forecast period major change major change notes 1. crude oil indian basket represents derived basket comprising sour grade oman dubai average sweet grade brent crude oil processed indian refineries ratio 71:29
+2. exchange rate path assumed purpose generating rbi staff ’ baseline growth inflation projections ‘ view ’ level exchange rate
+reserve bank guided undue volatility foreign exchange market specific level/band exchange rate
+3. global growth projections based 2016 2017 updates imf ’ world economic outlook
+4. budget estimates
+foreign exchange market experienced bouts volatility triggered international developments
+indian rupee depreciated sharply vis-à-vis dollar 8-28 2016 aftermath presidential election results
+rupee recovered lost ground appreciated 2016 level ₹67 usd
+global growth trade evolved sluggish pace expected
+ahead pace expected accelerate modestly 2017 benefitting expected fiscal stimulus strengthening recovery recent macroeconomic strains major emerging market developing economies emdes
+sobering thought global growth repeatedly disappointed initial expectations past years chart i.3
+downside risks suffuse domestic outlook 2017-18. i.1 outlook inflation headline inflation declined significantly low levels 2016-february 2017 lower projected 2016 mpr
+persistence inflation excluding food fuel poses challenge inflation outlook
+considerable uncertainty prices pan coming months
+vegetable price declines account demonetisationdriven distress sales addition seasonal factors,6 remonetisation fuel sharp reversal vegetable prices forward
+development imparts uncertainty near-term outlook inflation
+households largely form inflation expectations adaptively based past movements salient prices food fuel
+2017 round reserve bank ’ survey urban households increase 20-50 bps inflation expectations round reversing partly sharp decline 2-3 percentage points recorded previous i.e. round
+months ahead inflation expectations 7.5 cent 8.8 cent
+proportion respondents expecting general price level increase current rate edged higher chart i.4
+hardening global oil metal commodity prices driving recent surge india ’ wholesale inflation imparting input price pressures firms
+pricing power expected improve reflected manufacturing firms surveyed reserve bank ’ industrial outlook survey january-march 2017 round chart i.5
+staff costs manufacturing sector expected increase q1:2017-18. nominal wage growth rural areas decelerated december- partly account demonetisation
+manufacturing services sector firms nikkei ’ purchasing managers ’ survey 2017 reported pressures input prices output prices
+professional forecasters surveyed reserve bank 2017 expected cpi inflation pick current level 5.3 cent q4:2017-18 chart i.6
+medium-term inflation expectations years ahead increased marginally 10 bps 4.8 cent
+longer-term inflation expectations 10 years ahead remained unchanged 4.5 cent close reserve bank ’ medium-term inflation target cent
+taking account revised baseline assumptions signals forward-looking surveys estimates structural models box i.1 rbi staff ’ baseline path headline cpi inflation expected current level 3.7 cent 2017 4.2 cent q1:2017-18 4.7 cent q2
+forecast edge higher 5.1 cent q3 account demonetisationinduced base effect moderating 4.9 cent q4:2017-18 risks evenly balanced trajectory 50 cent confidence interval inflation q4:2017-18 range 3.4-6.4 cent 70 cent confidence interval range 2.6-7.2 cent chart i.7
+forecasts structural model inflation evolve stable manner 2018-19 reach 4.6 cent q4:2018-19 baseline scenario monetary policy stance remaining unchanged
+major upside risks baseline inflation path – uncertainty crude oil prices exchange rate volatility due global financial market developments political risks materialise implementation house rent allowances 7th central pay commission cpc award
+impact shocks headline inflation explored section i.3
+proposed introduction goods services tax gst 2017-18 poses uncertainty baseline inflation path account oneoff uncertain duration price effects typically introduction taxes added cross-country experience 2016 mpr review
+box i.1 inflation forecast combinations timely reliable forecasts inflation critical inputs setting forward-looking monetary policy
+forecasting inflation challenging countries advanced emerging rendered tenuous emerging economies account recurrent supply shocks
+central banks suite models supplemented informed judgement obtaining robust forecasts
+underlying preference tacit recognition models misspecified dimension time points
+context forecast combination approach – combining forecasts alternative models judicious weighting system – finds favour practitioners
+forecast combinations act hedge bad forecast performance individual models inflation volatile hubrich skudelny 2017
+order empirically validate forecast combination approach indian context shows promising results vis-à-vis individual models time series models analysed random walk rw model first-order autoregression ar model phillips curve pc model moving average model stochastic volatility ma-sv three-variable vector autoregression var model three-variable var exogenous variable varx model bayesian var bvar model bayesian varx bvarx model.7 approaches combining forecasts individual models simple average individual model forecasts performance-based weighted average based time varying weights tvw derived individual forecast performance past years time varying geometrically backward decaying weights tv-gdw i.e. larger weight model ’ recent performance
+data q1:2000 q3:2016 estimate models
+forecast performance measured inverse root square errors rmses individual models combinations relative benchmark rw model alternative forecasting horizons ahead quarters ahead chart 1
+results suggest performance-based forecast combinations improve individual models simple averaging relative forecasting performance improves considerably horizon extended quarters feature helpful monetary policy perspective transmission lags
+results suggest combining forecasts range models outperforms individual model
+approach rbi staff adopts explained 2015 mpr
+reference hubrich k. f. skudelny 2017 “ forecast combination euro area inflation cure times crisis ” journal forecasting doi 10.1002/for.2451
+i.2 outlook growth effects demonetisation turning short-lived modest relative doomsday expectations outlook 2017-18 brightened considerably number factors
+accelerated pace remonetisation discretionary consumer spending held back demonetisation expected picked q4:2016-17 gather momentum quarters ahead
+recovery aided reduction banks ’ lending rates due large inflows current savings accounts casa deposits fuller transmission impact impeded stressed balance sheets banks tepid demand bank credit
+proposals union budget 2017-18 expected growth stimulating stepping capital expenditure boosting rural economy affordable housing planned roll-out gst steps attract higher foreign direct investment fdi initiatives abolishing foreign investment promotion board fipb
+global trade output expected expand stronger pace 2017 2018 recent years easing external demand constraint domestic growth prospects
+recent increase global commodity prices sustained negative impact net commodity importing domestic economy
+finally pace economic activity critically hinge outturn south-west monsoon view rising probability assigned el niño event july-august 2017. turning forward-looking surveys consumer confidence moderated 2017 round reserve bank ’ survey chart i.8
+respondents optimistic prospects economic conditions employment income ahead
+sentiment corporate sector improved january-march 2017 reserve bank ’ industrial outlook survey chart i.9
+improvement led optimism future production order books exports employment financial situation selling prices profit margin
+amounts mobilised initial public offerings ipos recent months filings red herring prospectuses securities exchange board india sebi higher suggest investment optimism period ahead
+manufacturing services firms expected output higher purchasing managers ’ survey 2017. surveys conducted agencies decline optimism previous rounds table i.2
+table i.2 business expectations surveys item ncaer business confidence index 2017 ficci business confidence index 2017 dun bradstreet composite business optimism index 2017 cii business confidence index 2017 current level index 112.0 58.2 65.4 56.5 index previous survey 133.3 67.3 80.0 58.0 change q-o-q sequential -16.0 -13.5 -18.3 -2.6 change y-o-y -14.0 2.6 -23.9 4.8 professional forecasters surveyed reserve bank 2017 expected real gva growth accelerate 6.5 cent q4:2016-17 7.6 cent q4:2017-18 led growth services industry chart i.10 table i.3
+table i.3 reserve bank 's baseline professional forecasters median projections cent 2016-17 2017-18 2018-19 reserve bank ’ baseline projections inflation q4 y-o-y 3.6 4.9 4.6 real gross added gva growth 6.7 7.4 8.1 assessment survey professional forecasters inflation q4 y-o-y 3.6 5.3 gva growth 6.7 7.3 agriculture allied activities 4.2 3.5 industry 6.1 7.0 services 7.6 8.5 gross domestic saving cent gndi 31.5 31.8 gross fixed capital formation cent gdp 27.0 28.8 money supply m3 growth 7.5 10.5 credit growth scheduled commercial banks 6.0 10.0 combined gross fiscal deficit cent gdp 6.5 6.3 central government gross fiscal deficit cent gdp 3.5 3.2 repo rate end period 6.25 6.00 crr end period 4.00 4.00 yield 91-day treasury bills end period 6.0 6.3 yield 10-year central government securities end period 6.8 6.7 balance payments bn
+20.8 32.2 merchandise exports growth 2.8 5.9 merchandise imports growth -2.0 7.1 merchandise trade balance cent gdp -5.0 -5.1 current account balance cent gdp -0.9 -1.2 capital account balance cent gdp 1.8 2.4 median forecasts gndi gross national disposable income
+sources rbi staff estimates survey professional forecasters 2017
+baseline assumptions fast pace remonetisation survey indicators updated model forecasts rbi staff ’ baseline scenario projects real gva growth improve 6.6 cent q3:2016-17 6.5 cent q4 7.0 cent q1:2017-18 7.4-7.6 cent remaining quarters 2017-18 risks evenly balanced baseline path chart i.11
+2017-18 assuming normal monsoon congenial global environment policy induced structural change supply shocks structural model estimates yield real gva growth 8.1 cent 2018-19. i.3 balance risks baseline projections growth inflation presented preceding section based assumptions set table i.1
+usual uncertainties surrounding assumptions produce deviations baseline projections
+section assesses sensitivity projected baseline paths growth inflation plausible alternate scenarios
+international crude oil prices 2016 announcement opec agreement production cuts members met scepticism
+signing agreement end-november led sharp jump global crude oil prices
+opec sticks agreed production cuts 1.2 mb/day till review agreement 2017 global crude oil production balance moves deficit q1:2017-18,8 upside risk crude oil trajectory baseline estimates heighten
+supply disruptions due geo-political developments accentuate upside risks
+assuming crude prices increase 60 barrel scenario inflation higher 30 bps growth weaker 10 bps charts i.12 i.13
+conversely opec members adhere agreed production cuts and/or shale gas producers continue ramp production global prices soften baseline
+crude prices slip scenario 45 barrel 2017-18 inflation moderate 15 bps growth benefitting 5 bps
+global demand baseline scenario assumes global growth accelerate 2017 2018. risks baseline emanate fiscal expansion expected marked delays federal reserve ’ monetary policy response expansionary fiscal policy larger expected context recent assessment economy “ closing full employment ” pervasive spectre protectionism affecting global trade continued concerns chinese credit cycle volatile global crude oil commodity prices implications factors international financial markets
+feedback loops exaggerate impact factors global growth.9 assuming global growth 2017 2018 remains recorded 2016 i.e. 30-50 bps baseline assumption real gva growth inflation turn 20 bps 10 bps baseline
+pace global economic activity higher policy stimulus turns larger expected
+scenario assuming global growth 50 bps higher domestic growth turn 25 bps baseline
+inflation higher 10 bps back higher domestic demand imported impulses higher global commodity prices
+central pay commission allowances 7th cpc recommended increase house rent allowance hra 8-24 cent basic pay
+higher hra direct impact headline cpi increase housing inflation
+assuming rate increase hra proposed 7th cpc implemented early 2017-18 onwards state governments implement similar order increase lag cpi inflation 100-150 bps higher baseline 2017-18.10 hra impact inflation expected persist 6-8 quarters peak effect occurring 3-4 quarters implementation
+addition indirect effects occur elevated inflation expectations
+exchange rate recognising domestic foreign exchange market witnessed heightened volatility aftermath presidential elections risk renewed turbulence global financial markets account global downsides materialising volatility domestic financial markets remains clear present danger indian economy
+cent depreciation indian rupee relative baseline assumption push inflation 10-15 bps 2017-18. depreciation favourable impact growth 2017-18 boost net exports
+contrast combination benign global macroeconomic financial environment expected acceleration domestic growth policy initiatives attract fdi flows lead appreciation domestic currency soothing impact domestic inflation
+cent appreciation indian rupee relative baseline assumption soften inflation 10-15 bps 2017-18
+deficient monsoon rainfall dependence indian agriculture makes broader economy vulnerable monsoon outcomes
+india meteorological department imd release forecast south-west monsoon 2017. baseline scenario assumes normal south-west monsoon
+occurrence el niño assuming rising probability stated earlier dampening prospects agricultural production.11 assuming growth output agriculture allied activities suffers percentage point gva growth lower 20 bps 2017-18. concomitant increase food prices result headline inflation rising 30 bps baseline
+sum economic activity recover 2017- 18 back fast pace remonetisation government ’ focus capital expenditure rural economy housing
+global economic environment improve modestly albeit amidst uncertainties
+headline inflation projected increase 2017-18 calling close vigilance readiness monetary policy response warranted
+1 riboni alessandro francisco ruge-murcia 2014 “ dissent monetary policy decisions ” journal monetary economics 66 pp.137-154
+thornton daniel david wheelock 2014 “ making sense dissents history fomc dissents ” federal reserve bank st. louis review pp.213-227
+barwell richard 2016 “ hawks doves consensus central banks set interest rates ” voxeu.org
+2 hansen stephen michael mcmahon carlos rivera 2014 “ preferences private assessments monetary policy committee ” journal monetary economics 67 pp.16-32
+3 factors highlighted literature impinge rate outcome perception members disagreement sign incompetence dominance chair
+4 30 2016 opec members agreed cut production 1.2 barrels mb/d 32.5 mb/d effective 1 2017
+5 rising output countries included opec accord reported undermining effectiveness deal “ oil ’ promised land slips opec leaks ” bloomberg 5 2017
+6 headline inflation moderated 3.2 cent 2017 inflation excluding vegetables 4.5 cent
+7 var bvar models endogenous variables output growth cpi inflation policy repo rate varx bvarx models variables endogenous variables defined previously exogenous oil prices variable
+pseudo-real out-of-sample comparative assessment exogenous variables oil price varx/bvarx models output gap phillips curve model out-of-sample forecasting horizon modelled ar processes
+8 oil market report 2017 international energy agency
+9 kose m. ayhan csilla lakatos franziska ohnsorge marc stocker 2017 “ global role u.s. economy linkages policies spillovers ” policy research working paper 7962 world bank
+10 increase inflation statistical direct effect higher hra house rents weight 9.5 cent cpi
+11 2017 national oceanic atmospheric administration noaa increasing odds 50-55 cent el niño forming half 2017 australian bureau meteorology assessed likelihood el niño forming 2017 approximately 50 cent
+
+prices costs consumer price inflation eased significantly due large decline food inflation vegetables
+excluding food fuel inflation remained sticky
+input costs firmed pose upside risks path inflation forward
+mpr 2016 projected cpi inflation1 moving narrow range 5.0 5.3 cent q3 q4 2016-17 expectations food inflation moderating crude prices remaining benign
+food inflation 2016 peak eased august-october 2016. shock demonetisation veered inflation trajectory sharply projected path essentially account abrupt compression food inflation
+prices vegetables sank deflation pulled headline inflation 2016-january 2017. notwithstanding hardening global crude oil prices wake agreement production cuts opec late negative wedge actual projected inflation widened half 2016-17 chart ii.1
+ii.1 consumer prices headline inflation fell cliff traversing declining trajectory demonetisation hit
+triggered downward spiral inflation 3.2 cent 2017 all-time low history india cpicombined chart ii.2
+entire fall inflation 2016 2017 explained deflation prices vegetables pulses
+result unfavourable base effects raised headline inflation 2016 2017 overwhelmed collapse month-on-month m-o-m momentum bringing headline inflation 100 basis points chart ii.3
+drag transitory effects began ebb headline inflation edged pickup food fuel price pressures
+sharp fall food inflation half distribution inflation categories largely centred 4.5 cent continuing high kurtosis positive skew chart ii.4
+diffusion indices goods services cpi 50 financial suggesting headline inflation fell historic low broad-based chart ii.5
+ii.2 drivers inflation retrospect historical decomposition shows large shock delivered demonetisation wage shock explained change inflation trajectory half 2016-17. past monetary policy tightening continued visceral effects inflation chart ii.6a
+contrast firmer crude prices gradually closing output gap turned sources upside pressures masked size demonetisation shock
+non-food inflation remained stubbornly sticky hardened unchanging contribution durable goods services inflation financial chart ii.6b
+inflation food beverages category weight 46 cent cpi turned active component inflation half 2016-17. factors stand recent experience prices perishables played decisive role months preceding demonetisation
+months immediately demonetisation perishables prominent vegetable price movements pivotal decline 21 cent 2016 2017. transactions fruits vegetables cash intensive
+anecdotal evidence points distress sales farmers perishable nature
+vegetable prices exhibit seasonal moderation november- 2016-17 season decline vegetable prices pronounced previous years
+vegetable prices decline troughed 2017 showed m-o-m increase 0.1 cent
+seasonal decline prices vegetables typically driven potato onion tomato prices constitute close 40 cent vegetables index
+time potato tomato prices exhibit seasonal easing noteworthy plunge prices vegetables – cabbage cauliflower palak/other leafy vegetables brinjal gourd peas beans – contribute observed seasonality chart ii.7
+inflation perishables excluding vegetables averaged 5 cent considerably average headline inflation chart ii.8 .2 spatial temporal dynamics food prices post-demonetisation show food group decline vegetable prices large states wholesale retail markets box ii.1
+excluding vegetables food inflation higher 2.7 percentage points headline inflation 1.3 percentage points 2016 2017. commentary inflation food beverages category half 2016-17 complete incorporating analysis extraordinary developments prices pulses
+weight 5.2 cent food group 2.4 cent cpi pulses contributed 13 cent rising cpi inflation trajectory half 2016-17. half prices pulses turned deflation contribution 2.5 cent aided bringing headline inflation historic low cpi series
+inflation arhar urad spiked pulses inflation 2015-16 beginning 2016-17 declined sharply 2016 2017 arhar prices mandi level major producing states maharashtra madhya pradesh gujarat karnataka dropped minimum support price msp
+gram prices hand outlier inflation item rising dramatically moderating q4:2016-17. consecutive years production shortfall adequate rainfall area coverage drove pulses output 2016-17 mitigated price pressures considerably
+favourable supply side measures government imports import duty3 extension stock limit pulses raising msps order incentivise pulses production maintaining buffer stocks helped reining price pressures
+box ii.1 anatomy food deflation post demonetisation state-wise cpi food inflation data period 2013 2017 analysed frequency panel framework order make comparative assessment spatial temporal intra-food group fixed effects driving food inflation
+dynamic panel estimation1 conducted seasonally adjusted annualised m-o-m cpi food inflation
+results showed fixed effects insignificant states heterogeneity inflation rates sub-categories food groups significant
+fiscal 2016- 17 considered intra-food group fixed effects continued remain significant groups
+vegetables pulses stood terms magnitude direction compared usual patterns chart 1a 1b
+context demonetisation panel analysis showed significant time fixed effects 2016 brought vegetables suggesting unusual decline prices post demonetisation
+fall retail vegetable prices broadly mirrored fall wholesale prices post demonetisation
+seasonally adjusted prices potato tomato 88 centres india analysing vegetable price margins post demonetisation 9 31 2016 remonetisation 2017
+cluster analysis based k-means clustering technique wholesale retail prices grouped major clusters – low medium high price clusters – based data pre-demonetisation period september-october 2016
+post demonetisation price moderation observed medium high price clusters wholesale retail markets
+progressive remonetisation prices vegetables started rising wholesale retail markets
+45 degree line chart 2 represents level wholesale retail prices equal
+case tomato retail prices fell wholesale prices centres indicating fall retail margin post demonetisation
+case potato prices movement 45 degree line implying margins impacted
+movement margins chart 3. case tomato margins collapsed post demonetisation
+remonetisation progressed margins rose
+movements margins statistically significant
+case potato analysis showed centres experienced higher retail prices post demonetisation compared wholesale prices suggesting cases widening retail-wholesale margins centre-specific
+food group upside price pressure points sugar cereals food items prepared meals
+slippage production 2015-16 2016-17 caused double-digit inflation sugar prices chart ii.9a
+cereals inflation respect rice eased 2016 2017 inflation wheat continued firm
+number price control measures undertaken government price rise case sugar edible oil including imposition stockholding limits discouraging exports reduction import duty edible oils
+fuel group moderation inflation half financial reversed picked 2016 driven lpg kerosene
+rise lpg broadly mirrored turnaround international lpg prices
+case kerosene uptick driven increase subsidised kerosene prices calibrated ₹0.25 litre 2016 2017 addition rising international prices
+weighted contribution firewood chips fuel inflation remained broadly unchanged chart ii.10 underscoring persistence fuel inflation rural areas
+cpi inflation excluding food fuel remained sticky 5 cent half 2016-17 chart ii.11a
+housing ‘ clothing footwear ’ sub-groups main contributors accounting 36.2 cent inflation category
+upside pressures group emanated firming international crude oil prices 2016 lagged pass-through domestic prices petrol diesel embedded transport communication
+excise duty increase ₹12 litre petrol diesel additional revenue mobilisation arm measures mark-up domestic global prices pronounced
+softening international crude oil prices early 2017 domestic pump prices petrol diesel reduced lag beginning 2017 chart ii.12
+excluding volatile components petrol diesel inflation group cpi excluding food fuel averaged 4.7 cent 2016 2017 chart ii.11a
+moderation account goods component category – gold silver ‘ personal care effects ’ pharmaceuticals health garments clothing sub-groups – readings monitored assess softening endure chart ii.13a
+contrast contribution services component sub-groups remained sticky housing education services chart ii.13b
+incidence large frequent supply shocks food non-food items trimming inflation distribution removing specific portions upper lower tails distribution widely assess underlying inflation movements weighted median specific case trimming
+trimmed means weighted median exclusionbased measures cpi inflation revealed central tendency 4.7 cent 2016 2017 chart ii.11b
+notwithstanding moderation downward inflexibility inflation excluding food fuel infused significant upside risks near-term outlook
+direct indirect impact housing inflation 7th cpc house rent allowance award – implemented government – size duration ‘ gst effect ’ upside risks inflation cpi category
+measures inflation important development half 2016-17 divergence set inflation measured cpi measures
+conveys valuable insights profile cpi inflation evolves months ahead
+inflation measured sectoral consumer price indices undershot headline cpi inflation reflecting inter alia higher weight food absence items gold silver recent pressure points
+inflation terms wholesale price index wpi closely co-moving cpi inflation october-december 2016 shot close percentage points cpi inflation driven sharp pick-up international commodity prices
+gdp gva deflators rose beginning edged closer cpi inflation q3:2016-17 chart ii.14
+ii.3 costs retail inflation measurement metrics shrugged transitory drag demonetisation revealed underlying trajectory 2017 reading cost push pressures coalescing
+domestic farm non-farm input costs escalated significantly half 2016-17 account rise global crude oil prices firming metal prices expectations expansionary fiscal spending chart ii.15
+coal inflation surged coal india limited linking premium quality coal international prices hardened account supply disruptions australia china end 2016. substantial price pressures observed high speed diesel naphtha furnace oil cotton yarn fibres drove inflation industrial input costs highest level early 2011. farm sector price increases relating high speed diesel pesticides weedicides largely contributed upturn farm input costs
+analysis based supply table sut central statistics office cso comprising 140 products/services 66 industries shows cent increase crude oil metals coal prices translate increase wpi inflation 15 bps 20 bps 5 bps cpi inflation 6 bps 7 bps 2 bps respectively.4 turning wages staff costs rural wage growth agricultural non-agricultural labourers picked october-november 2016 moderating chart ii.16
+divergence agricultural non-agricultural wage growth remains wide reflecting increase demand farm labour due invigoration agricultural activity
+organised sector corporate sector performance points moderation employee staff cost listed private sector companies chart ii.17a
+caveat interpreting developments production grew slower pace staff costs pushing unit labour costs i.e. ratio staff cost production manufacturing services companies notwithstanding moderation latest reading chart ii.17b
+firms polled reserve bank ’ industrial outlook survey reported sharp pick-up cost raw materials staff cost
+firms expect pass increase costs selling prices
+similar sentiments acceleration input costs reported manufacturing firms service providers purchasing managers ’ indices
+polled companies expect increase costs strengthen output price inflation
+forward inflation path shaped implementation house rent allowances 7th cpc award introduction gst developments provide push headline inflation impact 12-18 months
+parts corporate sector struggling balance sheet stress protracted period await recovery demand rekindle pricing power firms rebuild bottom lines
+input costs firmed outlook inflation hinge accurate assessment quantum input price increases firms pass output prices
+recent softening crude oil prices – caused build-up oil stocks legacy oversupply opec failure production controls opec russia – continue inflation trajectory soften
+finally rising probability el niño discussed chapter 1 path food inflation impacted outcome monsoon coming regard supply management measures successfully led deceleration food inflation double digits 2012-13 2013-14 close 5 cent 2016-17 play crucial role
+1 headline inflation measured year-on-year all-india cpi combined rural+urban
+2 perishables index cpi weight 26 cent constructed sub-index frequently purchased items 7-day recall period includes items vegetables egg meat fish milk products fruits processed foods
+perishables exclude vegetables
+3 case tur import duty increased 10 cent
+4 sut round pass-through impact 1 cent increase domestic prices commodities due international price pressure estimated wpi inflation
+onward transmission wholesale retail inflation estimated vector autoregression var framework interest rate wpi headline inflation cpi headline inflation endogenous variables
+bhanumurthy n. r. s. das s. bose
+2012 oil price shock pass-through policy impact india national institute public finance policy delhi working paper series 99 2 1-10.
+demand output slowdown aggregate demand set beginning h2:2015-16 accentuated h2 2016-17 consumption demand remained resilient
+aggregate supply conditions underpinned robust performance agriculture steady government expenditure
+economic activity losing momentum h2:2015-16 combination structural cyclical factors h2:2016-17 trajectory dented transient impact demonetisation
+private government consumption demand held slowdown accounting 90 cent real gross domestic product gdp growth h2:2016-17 weighted contribution basis
+investment demand sunk contraction h1 recovered q3:2016- 17. net exports growing strongly q3:2015-16 q3:2016-17 turned negative imports starting expand higher pace exports domestic demand strengthened
+ebullient rebound agricultural activity back normal monsoon record foodgrains production boosted rural incomes supported consumption
+contrast modest pick-up industry h2:2016-17 slower growth services suggests investment demand sluggish
+forward implementation goods services tax gst measures union budget boost rural economy infrastructure micro small medium enterprises msmes low cost housing invigorate domestic demand
+sustained revival investment holds key stepping pace economic activity closer medium-term potential
+iii.1
+aggregate demand aggregate demand measured y-o-y real gdp market prices moderated 2016-17 slowdown pronounced half
+fiscal stimulus form 7th central pay commission ’ 7th cpc award supported aggregate demand strongly support government final consumption expenditure gfce gdp growth slumped 5.9 cent h2:2016-17 headline print 7.0 cent1
+private consumption remained mainstay domestic demand notwithstanding deceleration expected
+seasonally adjusted basis q-o-q growth suggests slowdown aggregate demand bottomed q3 upturn commenced q4 back tentative recovery exports investment chart iii.1 table iii.1
+iii.1.1 private final consumption expenditure private final consumption expenditure remains bedrock domestic demand contributing half gdp growth h2:2016-17 chart iii.2
+underlying resilience stood face cash constraints demonetisation data pointing acceleration growth period sequential basis
+expansion consumer purchasing power period explained combination factors improved rural consumption demand due robust agricultural activity sharp uptick mahatma gandhi national rural employment guarantee act mgnrega expenditure 15 cent 2016-17 rural wages remaining steady implementation 7th cpc recommendations rank pension orop buoyed strong urban consumption demand significant fall consumer inflation
+table iii.1 real gdp growth cent item 2015-16 2016-17 sae weighted contribution growth 2016-17 percentage points 2015-16 2016-17 q1 q2 q3 q4 q1 q2 q3 q4 private final consumption expenditure 7.3 7.2 4.0 4.9 6.7 6.8 10.6 7.2 5.1 10.1 6.5 government final consumption expenditure 2.9 17.0 1.7 0.5 3.9 3.7 3.6 15.5 15.2 19.9 18.1 gross fixed capital formation 6.1 0.6 0.2 9.6 12.4 3.2 0.0 -2.2 -5.3 3.5 6.5 net exports 13.9 62.0 0.7 -1.1 -4.9 27.0 89.6 70.4 74.5 -23.4 exports -5.4 2.3 0.5 -5.7 -4.3 -9.0 -2.5 2.1 -0.9 3.4 4.4 imports -5.9 -1.2 -0.3 -5.2 -3.6 -10.2 -4.4 -2.7 -7.4 4.5 1.4 gdp market prices 7.9 7.1 7.1 7.8 8.4 6.9 8.6 7.2 7.4 7.0 7.0 sae advance estimates
+implicit growth
+component-wise contributions growth add gdp growth table change stocks valuables discrepancies included
+source central statistics office cso
+terms lead indicators estimating private final consumption expenditure surge private consumption finds reflection acceleration agriculture gva telephone connections indirect tax collections manufacturing index industrial production iip chart iii.3
+iii.1.2 gross fixed capital formation consecutive quarters sharp deceleration contraction gross fixed capital formation turned q3 accelerated q42
+basis lead indicators reversal investment demand spite demonetisation effects explained pick-up capital goods imports moderation pace contraction domestic capital goods production improvement profits software companies chart iii.4
+momentum investment activity visible sectors electricity transmission roads renewable power
+nonetheless premature interpret proximate developments green shoots durable revival investment demand
+wider scan shows capex spending large brownfield projects sectors iron steel construction textiles power remains weak amidst environment uncertainty surrounding growth global domestic over-indebtedness excess capacity sectors
+centre monitoring indian economy cmie investment proposals capture future pace investment activity recovered q4 decadal low level q3 driven government projects
+investment projects increased ₹2.57 q4 average ₹2.16 preceding quarters chart iii.5a
+stalled projects decreased 51 cent accounted government sector projects chart iii.5b
+problem stalled projects continues lack environmental non-environmental clearances
+seasonally adjusted capacity utilisation remained average q1:2013-14 reflecting weak demand raising concerns sustainability recent pick-up private investment chart iii.6
+decomposition time series trend cycles frequencies juxtaposed markov switching exercise detect regime shifts suggests recent upturn confirm definitive reversal investment demand box iii.1
+forward increase allocation capital expenditure 10.7 cent union budget 2017-18 expected generate multiplier effects catalytic effects fiscal crowding setting turnaround investment cycle largely contingent revival private investment appetite
+binding constraint heightened risk aversion banks laden double-digit percentage stressed assets gross advances finance sectors excessively leveraged
+sectorspecific slack demand substitution cheaper imports segments due excess global capacity drags revival investment
+box iii.1 investment cycle india insights wavelet analysis gross domestic investment india muted prolonged phase set post global financial crisis gfc period
+capacity utilisation remained low industrial activity depressed environment characterised subdued global domestic demand
+gross fixed capital formation gfcf posted positive growth q3:2016-17 consecutive quarters contraction question evoked considerable interest recent upturn indicating turning point investment cycle implications growth
+markov switching model hamilton 1989 applied growth rates annualised seasonally adjusted q-o-q investment chart check recent surge investment growth rate fact turning point
+markov-switching probabilities suggest inflexion point investment cycle higher growth regime materialised
+similar exercise gdp growth rates chart suggest turnaround
+output investment growth cycles annualised q-o-q examined wavelet analysis offers possibility decomposing time series data series orthogonal sequences scales representing periodicities/ frequencies
+charts present wavelet transformation gdp gfcf growth rates panel charts low frequency scale represents long-run trend growth rates panel charts higher frequency levels panel charts
+addition low frequency high frequency decompositions produces observed data
+long-term gdp gfcf growth rates moderated years global financial crisis
+moderation long-term investment cycle sharper output growth cycle
+lower frequency cycles periodicities 2-4 years output growth show visible signs turnaround recent period
+investment cycle periodicity 2 years increase panel chart consistent higher gfcf growth rates recorded h2:2016-17. notes 1. daubechies 4 wavelet level 4 smooth wavelets daubechies 4 give approximations continuous functions
+panel charts annualised q-o-q gfcf gdp – represented a4 d4 d3 d2 d1
+2. cross wavelet wavelet coherence software provided a. grinsted http //www.glaciology.net/wavelet-coherence
+morlet family wavelet good balance time frequency localization
+horizontal axis shows time vertical axis shows period years
+warmer colour region red higher degree coherence investment output growth cycles
+arrows relative phase relationship series pointing in-phase left anti-phase gfcf leading gdp
+black thick contour represents 5 cent significance
+red coloured regions inside black thick contours cross wavelet coherence chart represent high significant co-movement output investment cycles time points x-axis cycle lengths represented period y-axis
+output investment cycles strongly co-moved 2-4 cycle pre-crisis period co-moved 3-4 cycle recent period
+uptick 2-year period cycle investment immediately translate higher output growth
+references hamilton james 1989 “ approach economic analysis nonstationary time series business cycle ” econometrica 57 2
+yogo m. 2008 “ measuring business cycles wavelet analysis economic time series ”
+economics letters 100 2 pp
+208-212. iii.1.3 government expenditure key component aggregate demand government final consumption expenditure gfce continued provide strong support aggregate demand h2:2016-17 due implementation 7th cpc award orop
+lower spending major subsidies food fertilisers petroleum contained central government ’ revenue expenditure budgeted level 2016-17. shortfall realisation budgeted receipts disinvestment spectrum auctions buoyant indirect tax collections non-tax revenues helped realising fiscal deficit target capital expenditure experience cutbacks unlike previous years table iii.2
+fact revised estimates capital expenditure 13.3 cent higher budgeted estimates reflecting improvement expenditure quality
+union excise duty collections grew 34.5 cent y-o-y basis account upward revision clean environment cess imposition infrastructure cess motor vehicles additional excise duty jewellery articles increase excise duty tobacco products
+receipts service tax grew 17.1 cent due imposition krishi kalyan cess 0.5 cent 1 2016. robust indirect tax collections lower spending subsidies entailed wider divergence gva gdp growth rates
+union budget 2017-18 deferred target gross fiscal deficit gfd gdp ratio 3.0 cent 2018-19 2017-18. government remained committed spirit fiscal consolidation centre ’ gfd budgeted decline 0.3 percentage point 3.2 cent 2017-18 increase non-debt receipts tax revenues disinvestment proceeds
+makes room enhanced budgetary allocation farm rural sectors social physical infrastructure employment generation
+future fiscal consolidation contingent efficient revenue mobilisation broadening tax base incentivising digital payments
+table iii.2 key fiscal indicators central government finances item cent gdp 2016-17 2016-17 2017-18 1. revenue receipts 7.9 9.3 9.0 a. tax revenue net 6.3 7.1 7.3 b. non-tax revenue 1.7 2.2 1.7 2. debt capital receipts 0.4 0.4 0.5 3. revenue expenditure 11.5 11.4 10.9 4. capital expenditure 1.6 1.8 1.8 5. total expenditure 13.1 13.2 12.7 6. gross fiscal deficit 3.5 3.5 3.2 7. revenue deficit 2.3 2.0 1.9 8. primary deficit 0.3 0.3 0.1 source union budget 2017-18. note budget esitmates revised estimates table iii.3 major deficit indicators state governments cent gsdp item 2016-17 2016-17 2017-18 revenue deficit -0.1 0.2 -0.1 gross fiscal deficit 3.0 3.4 2.6 gross fiscal deficit excluding uday 3.0 primary deficit 1.3 1.7 0.9 notes 1. negative sign surplus
+2. data pertain 21 29 states
+3. uday data rbi records
+source budget documents state governments
+latest data respect 21 states suggest increase gfd gross state domestic product gsdp ratio 3.4 cent 2016-17 3.0 cent budgeted
+net ujwal discom assurance yojana uday bonds ratio lower 3.0 cent
+2017-18 gfd-gsdp ratio 21 states works 2.6 cent table iii.3
+deterioration state finances 2016-17 impact fiscal position general government
+centre ’ borrowing programme conducted planned issuance schedule contour debt management strategy
+combined gross market borrowings centre states dated securities 2016-17 increased 9.6 cent previous table iii.4
+increased borrowing state governments exert pressure finite pool investible resources crowd private investment
+table iii.4 government market borrowings ₹ item 2015-16 2016- 17 centre states total centre states total net borrowings 4,406.3 2,611.9 7,018.2 4,082.0 3,426.5 7,508.5 gross borrowings 5,850.0 2,945.6 8,795.6 5,820.0 3,819.8 9,639.8 iii.1.4 external demand making positive contribution gdp quarters net exports contracted sharply pulled gdp growth q3:2016-17. growth merchandise exports imports turned positive time quarters stronger pick-up imports exports expanded trade deficit q3 months q4
+notwithstanding slowdown global demand evident weak imports advanced economies aes india ’ exports aes resisted slowdown increased q2 q3:2016-17 alongside pick-up exports emerging market economies emes accounted large part decline india ’ exports years
+fact export shipments emes registered positive growth time q3:2014-15. significantly turnaround india ’ export growth q3 led non-oil exports entire increase oil exports accounted increase international crude oil prices
+exports labourintensive sectors ready-made garments gems jewellery leather products experienced transient pressures demonetisation
+broad categories imports
+oil gold non-oil non-gold imports increased october-february 2016-17 chart iii.7
+gold imports rose demonetisation declined sharply months increased 2017 due domestic stockpiling ahead festive akshaya tritiya wedding season
+strong price effects caused organisation petroleum exporting countries opec production cut pushed growth oil imports nominal terms import volumes declined recent months
+net services exports moderated h2:2016-17 2016 2017 relation period 2015-16. services exports india ’ software exports face uncertainty global headwinds restrictions relating h1-b visas
+higher flow tourist arrivals augured exports travel services
+net outgo due investment income payments q3 marginally lower period 2015-16. private transfer receipts representing remittances indians employed overseas declined 3.8 cent q3 level ago
+lower merchandise trade deficit current account deficit 1.4 cent gdp q3 level ago higher preceding quarters
+net fdi inflows 13.2 h2:2016- 17 2016 2017 moderated level ago net portfolio flows turned positive q4
+cumulative basis net fdi inflows rose 33.9 april-january 2016-17 compared 31.6 ago suggesting india preferred investment destination
+bout global risk aversion caused net outflow foreign portfolio investment fpi 2016 2017 subsided subsequently foreign portfolio investors turned net buyers response union budget proposals change monetary policy stance reserve bank
+fpis equity debt segments recorded net inflow 11.6 2017. fpis bullish continuance domestic reforms decisive outcomes recent state elections
+inflows debt segment largely influenced domestic global interest rate differentials
+higher repayments caused net outflow external commercial borrowings april-february 2016-17. net outflow 18.0 non-resident deposits 2016 2017 reflected redemption fcnr deposits
+iii.1.5 discrepancies gdp india real economic activity comprehensively captured gross added gva basic prices sectors economy
+real gdp market prices derived adding net indirect taxes product taxes minus product subsidies real gva basic prices
+independently estimated private government final consumption gross fixed capital formation net exports add total resulting discrepancies gdp estimates
+iii.2 aggregate supply iii.2.1 output growth output growth terms gva basic prices decelerated h2:2016-17 relative h1 ago impact demonetisation manufacturing services sector activity turning smaller transient relative underlying moderation evidence h2:2015- 16 table iii.5
+agriculture sector remained resilient rebounded strength normal monsoon consecutive years drought conditions vigorous sowing activity effective supply management government
+seasonally adjusted q-o-q annualised gva movements confirm weakening growth h2:2016- 17vis-à-vis h1 chart iii.8a
+h2 mpr projected gva growth 7.7 cent
+noted actual outcome q1 matched projections 2016 mpr
+table iii.5 sector-wise growth gva cent sector contribution- weighted 2016-17 2015-16 2016-17 sae 2015-16 2016-17 q1 q2 q3 q4 q1 q2 q3 q4 agriculture allied activities 0.7 0.8 4.4 2.6 2.3 -2.2 1.7 1.9 3.8 6.0 5.0 industry 1.6 10.3 6.7 8.3 10.3 12.0 10.6 7.6 5.6 8.0 5.6 mining quarrying 0.0 12.3 1.3 11.2 13.9 13.3 11.5 -0.3 -1.3 7.5 -0.7 manufacturing 1.4 10.6 7.7 8.5 10.3 12.8 10.8 9 6.9 8.3 6.8 electricity gas water supply utilities 0.1 5.1 6.6 2.5 5.9 4.1 7.8 9.6 3.8 6.8 6.4 services 4.4 8.8 7.2 8.8 9 8.5 9.1 7.8 7.6 6.3 7.3 construction 0.3 2.8 3.1 4.8 0.0 3.2 3.0 1.7 3.4 2.7 4.8 trade hotels transport communication 1.4 10.7 7.3 10.6 8.9 9.6 13.2 8.2 6.9 7.2 7.0 financial real estate professional services 1.4 10.8 6.5 10.2 13.1 10.4 8.9 8.7 7.6 3.1 5.9 public administration defence services 1.4 6.9 11.2 6.3 7.2 7.5 6.7 9.9 11 11.9 11.7 gva basic prices 6.7 7.8 6.7 7.8 8.4 7.0 8.2 6.9 6.7 6.6 6.5 sae advance estimates
+implicit source central statistics office cso
+cso ’ estimates q2 2016-17 gva 6.7 cent undershot rbi staff ’ projections sizeably suggesting greater expected loss momentum chart iii.8b
+projected pace acceleration agriculture back favourable base effects materialise output allied activities slowed expected
+anticipation investment-driven boost electricity generation mining quarrying belied
+construction activity weakened projected weaker demand
+sharper loss momentum evident cso ’ subsequent data releases
+rise crude oil prices adversely affected corporate bottom lines contributed
+addition knock-on effects demonetisation industrial sector sub-components services sector pulled gva growth alignment mpr projections effects muted transitory loss momentum q2 endemic factors earlier
+large unanticipated data revisions relating 2014-16 contributed deviations mpr projections
+developments closely monitored reassessments made 2016 2017 mpc resolutions gva growth projection pared 7.1 6.9 cent
+impact demonetisation gva growth mitigated significantly higher growth agriculture public administration defence services pado components services sector
+excluding government spending momentum gva growth remained broadly unchanged q3 2016-17 chart iii.9
+iii.2.2 agriculture growth agriculture allied activities accelerated h2 2016-17 y-o-y basis sequentially reflecting record foodgrains production
+adequate soil moisture reasonable northeast monsoon initial part season comfortable reservoir levels 10-year average resulted increase sowing rabi crops 5.7 cent ago
+higher sowing wheat pulses oilseeds coupled factors timely announcement minimum support prices msps pulses availability key agricultural inputs supported agricultural activity
+important note rabi sowing subsequent weeks announcement demonetisation remained higher ago ended 18 2016 suggesting impact sowing activity se
+dwindling wheat stocks buffer norm 2016 till prompted increase wheat imports
+import pulses grew significantly
+record production wheat pulses 2016-17 expected augment stocks substantially prices check
+strong performance foodgrains matched horticulture sector
+growth decelerated 2016-17 advance estimates
+livestock barring wool production grew robust pace providing alternate source income rural population supporting gva agriculture allied activities
+iii.2.3 industrial sector added industrial sector decelerated h2:2016-17 y-o-y basis led manufacturing
+sequentially activity sector gained momentum period buoyed performance mining quarrying sectors
+organised industry remained largely resilient face demonetisation
+deceleration industrial sector discernible demonetisation iip contracted 0.3 cent period april-october 2016 compared growth 4.8 cent period previous
+deceleration partly account negative base effect relating insulated rubber cables pulled iip chart iii.10
+trimmed insulated rubber cables iip growth april- 2016 3.0 cent
+subsequent waning negative base effect helped propping iip aided pick-up momentum
+mining quarrying segment slowed beginning 2016-17 reflecting tepid coal production
+post demonetisation growth mining quarrying sector cash intensive accelerated sequentially
+account improvement coal production natural gas crude oil production continued contract
+impact demonetisation manufacturing sector transient contracting 2016 manufacturing output bounced back 2017. manufacturing pmi slipped contractionary zone 2016 expanded january-march 2017. performance listed private companies remained resilient sales net profit growth improved aggregate level performance non-information technology non- service sector companies continued lacklustre chart iii.11
+sales cash intensive sectors fast moving consumer goods fmcg motor vehicles declined q3 vis-à-vis previous chart iii.12a
+lead indicators passenger car sales consumer durables suggest impact short-lived
+electricity sector recorded sharp increase h2:2016-17 y-o-y basis
+thermal electricity production remained weak nonconventional sources solar wind energy registered higher production pulling price
+india taking significant strides expanding non-conventional sources energy helped enabling policy environment expected improvement financial health power distribution companies discoms implementation ujwal discom assurance yojana uday scheme outlook electricity generation brightened considerably
+iii.2.4 services slowdown services sector evident q1:2016-17 sharper h2:2016- 17. services sectors adversely impacted demonetisation albeit temporarily construction realty
+implicit cso data q4 suggests effects waning
+steel consumption cement production lead indicators construction activity remained positive q2:2016-17 sharp decline cement production chart iii.13
+government ’ continuing thrust building infrastructure evident significant increase road projects awarded constructed rural housing revive construction sector period ahead
+trade hotels transport communication sectors shrugging effects demonetisation gearing revival
+tourist arrivals picked strongly recent months
+transport segment major lead indicators commercial passenger vehicles sales revived lows november/december 2016. financial real estate business services faced subdued conditions past quarters constraints account slowing bank credit pulled growth
+credit growth continued remain tepid insurance premiums witnessed surge
+real estate segment largely reflects addition listed real estate companies impacted demonetisation evident sharp fall bse realty index
+subsequently losses recouped transitory effects wore
+business services segment largely reflects performance companies
+sales profit companies remained robust
+nonetheless outlook segment clouded uncertainty view growing protectionist anti-globalisation sentiments
+alluded earlier public administration defence continued exhibit robust growth 2016-17 due higher expenditure account 7th cpc award orop
+commitment fiscal consolidation double digit growth segments sustain 2017-18. services sector lead/coincident indicators suggest recovery q4 prolonged downturn hit demonetisation
+iii.3 output gap efficacy monetary policy critically depends accurate assessment resource utilisation
+context good fix potential output vital challenging unobservable
+estimation potential output deal uncertainty real time measures aggregate activity considerable amount noise subject significant revisions
+introduction base national accounts 2011-12 continuing unavailability time series previous years ensuring degrees freedom econometric estimation major impediments endeavour
+demonetisation added uncertainty growth outlook impact transitory
+fair assessment output gap india deviation actual output potential level expressed percentage potential output revised gva data augmented forecasts applying univariate filters hodrick-prescott filter baxter-king filter christiano-fitzgerald filter multivariate kalman mkv filter4
+mkv filter juxtaposes demand conditions movements inflationary pressures
+estimated output gap measures aggregated principal components composite measure output gap actual minus potential gradually closing chart iii.14
+growth prospects expected strengthen 2017-18 account factors
+discretionary consumer demand held demonetisation expected bounce back
+economic activity cash-intensive sectors retail trade hotels restaurants transportation unorganised sector rapidly restored
+demonetisation-induced ease bank funding conditions led sharp improvement transmission past policy rate reductions marginal cost-based lending rates turn lending rates healthy borrowers spur pick-up consumption investment demand
+emphasis union budget 2017-18 rural economy affordable housing positive growth
+1 keeping view provision made central government additional expenditure account pay pension budget 2016-17 impact estimated 30 bps gva projected reserve bank 2016-17 rbi report 2015-16
+2 implicit latest data cso q1-q3 advance estimates gva
+4 hodrick r. j. prescott e. c. 1997
+“ postwar business cycles empirical investigation ”
+journal money credit banking pp.1-16
+baxter m. king r. g. 1999 ” measuring business cycles approximate band-pass filters economic time series ”
+review economics statistics 81 4 pp.575-593
+christiano l. j. fitzgerald t.
+2003
+“ band pass filter. ” international economic review 44 2 pp.435-465
+beneš j. clinton k. garcía-saltos r. johnson m. laxton d. manchev p. b. matheson t. 2010
+“ estimating potential output multivariate filter ” imf working paper wp/10/285
+
+financial markets liquidity conditions domestic market segments shaped local factors environment heightened volatility global financial markets
+large surplus liquidity money market post-demonetisation managed mix conventional unconventional instruments
+volatility foreign exchange market remained contained notwithstanding portfolio outflows
+credit growth industry remained depressed asset quality concerns weak investment demand
+equity debt markets exhibited episodic price movements stabilising end
+2016 monetary policy report mpr appetite risk global financial markets punctuated bouts volatility triggered largely unanticipated presidential election results apprehensions intensified protectionist measures monetary policy tightening unexpected hawkish guidance fed
+markets responded positively expectations significant reset policy mix administration sharpening focus fiscal policy
+strengthening dollar hardening bond yields surge equity markets easing global deflation risks stronger growth outlook advanced economies aes triggered capital outflows emerging market economies emes
+fixed income markets exchange rates emes pressure
+volatility markets emes remained contained unlike taper tantrum
+recently emes witnessed resumption portfolio flows
+domestic financial markets impacted twin shocks – demonetisation presidential election results
+union budget announcements shift monetary policy stance reserve bank data releases relating inflation economic activity influenced market movements
+demonetisation drove wall liquidity money market
+war-time liquidity management reserve bank limited extent softening money market rates relative policy repo rate liquidity adjustment facility laf corridor
+g-sec yields moved direction driven factors
+announcement policy rate cut demonetisation imparted softening bias tightening monetary policy application incremental cash reserve ratio icrr absorb surplus liquidity status quo monetary policy reserve bank shift monetary policy stance 2017 neutral hardened yields
+rupee displayed two-way movements mid-january appreciated resumption portfolio inflows debt equity segments
+surplus liquidity conditions impelled lubricated transmission monetary impulses deposit lending rates
+credit growth industry remained sluggish risk aversion banks due high levels stressed assets weak demand view depressed investment cycle presence spare capacity manufacturing
+iv.1 financial markets iv.1.1 money market q3 2016-17 policy repo rate cut transmitted fully money market amidst easy liquidity conditions
+unprecedented surge liquidity announcement demonetisation details set section iv.3 shocked market
+efficacy liquidity absorption operations reserve bank gauged fact weighted average call money rate wacr – operating target monetary policy – traded 14 bps repo rate 9 2016 end- 2016 coursed 6 bps 2016 8 2016. q4 stepped-up pace remonetisation resulted reduction liquidity surplus massive relative historical experience
+calibrated change mix instruments liquidity absorption open market operations omos market stabilisation scheme mss reverse repo operations reserve bank ’ laf imparted softening bias wacr traded 25 bps repo rate average
+usual year-end liquidity pressure stemming banks ’ balance sheet adjustments tax payments government spike money market rates post-demonetisation liquidity overhang remained substantial
+overnight money market rates viz. collateralised borrowing lending obligation cblo market repo traded sync wacr albeit downside bias 35 bps chart iv.1
+country practices width policy corridor point considerable diversity suggesting choice width corridor time- countryspecific table 1
+indian context recent overhang large surplus liquidity – full absorption conventional unconventional instruments – imparted persistent downside bias money market rates relative policy repo rate spilled 3-month money market rates discussed subsequently
+3-month treasury bill t-bill rate stayed closer fixed reverse repo rate – floor laf corridor – policy repo rate
+narrowing laf corridor conditions finer alignment operating target repo rate
+turn make money market conditions consistent monetary policy stance
+table iv.1 monetary policy interest rate corridors select countries country monetary policy corridor width bps country monetary policy corridor width bps australia 50 +/- 25 malaysia 50 +/- 25 canada 50 +/- 25 zealand 50 +50/0 euro system 65 +25/-40 philippines 100 +/- 50 india 100 +/- 50 sweden 150 +/- 75 indonesia 150 +/- 75 thailand 100 +/- 50 japan 40 +30/-10 united kingdom 50 +50/0 korea 200 +/- 100 united states 50 +50/0 sources central bank websites respective countries
+demonetisation-induced surplus liquidity conditions impacted market micro structure bearing volumes rates
+call money market lending volumes co-operative banks increased significantly
+share average call volumes rose 50 cent postdemonetisation 2017 average 36 cent april-october 2016. reported trades opposed transaction-based negotiated dealing system-call nds-call rates pulled wacr hours trading days
+collateralised segments mutual funds increased lending cblo market repo segments enabled large mobilisation short-term funds collateralised rates traded wacr
+banks active borrowing side cblo market repo segments accounting 74 cent 79 cent total average volumes 2017 taking advantage lower cost funds
+banks arbitraged segments money market reserve bank ’ laf window persistently high structural surplus liquidity heavily weighed money market rates
+nonetheless volatility wacr estimated igarch1 1,1 model muted chart iv.2
+view surplus liquidity banks reduced recourse certificates deposit cds issuance declined sharply ₹407 ₹850 billon q3 q4 17 2017 2016-17 ₹1,446 ₹2,607 q3 q4 previous chart iv.3
+liquidity imparted softening bias weighted average discount rates primary issuance markets commercial paper cp
+secondary markets 3-month cd 91-day t-bill rates softened 25 63 bps 3-month cp rate declined 30 bps
+iv.1.2 government securities market yields government securities g-sec market remained volatile h2 induced major events chart iv.4
+g-sec yields softened 2016 25 bps policy repo rate cut reserve bank yield curve shifted
+yields moved marginally tracking rising global yields expectations fed rate hike 2016. g-sec yields softened significantly announcement demonetisation resultant surge liquidity system chart iv.5
+yield benchmark 10-year paper dropped 6.80 cent 8 2016 6.19 cent 24 2016 touching intra-day low 6.11 cent 25 2016 i.e. policy repo rate
+yields aligned policy rate 2016. trading volumes secondary market reached all-time high ₹2,051 21 2016. primary market 91-day t-bill yields plummeted 5.86 cent 23 2016. yields hardened 2016 due number factors imposition incremental crr absorb surplus liquidity banking system portfolio outflows debt market hike interest rate fed accompanied hawkish statement future rate hikes expectations fiscal stimulus pushed bond yields rising crude oil prices status quo monetary policy announced reserve bank
+g-sec yields hardened 2017 yield curve steepened response unexpected shift monetary policy stance reserve bank accommodative neutral higher cpi inflation excluding food fuel bunching ujwal discom assurance yojana uday bonds state development loans sdls issuances discussed subsequently
+generic 10-year yield rose announcement change monetary policy stance 31 bps 6.93 cent
+average closing generic 10-year yield increased 6.96 cent 2017 7.13 cent 2017. higher domestic yields inter alia contributed return portfolio flows debt market chart iv.6
+2016 2017 net fpi outflows ₹336 indian g-sec market
+net fpi inflows ₹229
+fiscal developments bearing g-sec yields q4
+central government reduced market borrowings q4 2016-17 ₹180 dated securities ₹510 t-bills reduced supply sovereign paper market
+government announced net market borrowings 2017-18 union budget ₹4,232 included planned buyback securities ₹750
+union budget provided ₹250 switching securities debt management strategy aims reducing near-term redemption pressure elongating maturity debt
+state governments ’ reliance market borrowings funding fiscal deficit increased steadily recent years
+large issuances sdls states exerting upward pressure yields chart iv.7
+spread sdls cut-off 10-year g-sec increased persistently half 2016-17 – 28-49 bps 2016 86-114 bps 2017. uday bonds issuances previous fixed spread 75 bps corresponding/10-year fimmda g-sec yields
+spreads issuances uday bonds 2016-17 range 35-75 bps modification issuance strategy invite bids market participants
+iv.1.3 corporate bond market corporate bond yield aaa 5-year benchmark softened 7.52 cent 2016 7.33 cent 2017 tracking movements g-sec yields surplus liquidity conditions demonetisation
+monetary policy announcement corporate bond yield hardened 7.65 cent declining 7.56 cent end-march 2017. taking advantage low yields tight credit market conditions stressed assets banking system corporates mobilised higher resources corporate bond market i.e. ₹2,502 2016 – 2017 ₹1,957 period previous chart iv.8
+private placements constituted 97.8 cent total amount mobilised
+indian corporates raised large resources bonds international markets chart iv.9
+foreign portfolio investment corporate bond market declined 2016 2017 account risk-off strategies international investors
+portfolio flows turned positive due global risk-on portfolio shifts advantage higher domestic yields
+measures announced deepen corporate bond market enhancing aggregate limit partial credit enhancement pce provided banks 50 cent permitting brokers corporate bond repos allowing consolidation re-issuance corporate bonds
+turnover corporate bond market terms amount increased 63.8 cent h2 record high
+dollar terms turnover increased 6.0 h2:2015-16 9.7 h2 2016-17. iv.1.4 stock market stock market bse sensex gained 6.3 cent h2:2016-17 chart iv.10
+2016 stock market remained volatile due factors increasing prospects interest rate hike fed consequent portfolio outflows mixed corporate results q2
+25 bps cut repo rate reserve bank 2016 gained modestly
+2016 bse sensex plunged 4.6 cent uncertainty impact demonetisation economic growth corporate earnings portfolio equity outflows triggered risk-off market reactions presidential election results
+demonetisation greater impact cash sensitive sectors fmcg consumer durables auto realty vis-a-vis sensex
+downward bias persisted sustained selling foreign institutional investors subdued auto sales data persisting concerns q3 earnings interest rate increase fed unexpected hawkish guidance
+stock market revived 2017 due buying domestic institutional investors expected corporate results q3 revival foreign portfolio equity investment mid-january positive cues global markets
+recovery continued 2017 proposals made union budget lower fiscal deficit target 2017-18 exemption category category foreign portfolio investors taxation indirect transfers unchanged capital gains tax rate capital market
+fpis stepped buying status quo maintained fed positive cues global equity markets
+impact demonetisation sectoral indices transitory recovered losses scaled higher pre-demonetisation levels
+stock market gained expected q3 gdp growth estimates india released cso pmi manufacturing services pointing expansion demonetisation-induced contraction approval draft central gst cgst integrated gst igst bills gst council.2 fed rate increase priced markets dovish stance improved appetite risk assets including emes
+expectations state election results provide impetus reforms bse sensex 29,974 nifty 9,265 closed time highs 5 2017. iv.1.5 foreign exchange market foreign exchange market rupee moved narrow range dollar appreciated euro pound sterling h2 2016-17 chart iv.11
+q3 weakness rupee dollar reflected strengthening dollar presidential election outcome fpi outflows equity debt increased demand oil importers foreign currency fcnr redemption pressures policy rate cut 2016. dollar strengthened anticipation expansionary fiscal policy tighter monetary policy fed
+rupee depreciated dollar 2.9 cent ₹66.71 dollar 8 ₹68.72 28
+rupee regained half lost ground 2016 renewed downward pressure till end-january 2017 response fed policy rate hike
+2017 onwards rupee appreciated due equity portfolio inflows policy announcements made union budget easing concerns speed fed policy rate hikes
+factors india ’ low current account deficit emphasis monetary policy 4 cent inflation target transient impact demonetisation economic activity commitment fiscal prudence announced union budget provided stability exchange rate
+rupee gained fpi inflows equity boosted outcome state elections augur accelerating pace reforms
+table iv.2 nominal real effective exchange rates trade-based base 2004-05=100 item index 31 2017 appreciation depreciation cent 31 2017 31 2016 31 2017 30 2016 36-currency reer 119.3 7.9 4.2 36-currency neer 78.3 6.3 5.2 6-currency reer 132.2 7.8 5.0 6-currency neer 70.8 6.3 6.1 ₹/ 31 2017 64.8 2.3 2.8 provisional
+note reer figures based consumer price index combined
+source rbi
+terms 36-currency nominal effective exchange rate neer real effective exchange rate reer rupee appreciated 6.3 cent 7.9 cent end-march 2017 end-march 2016 table iv.2
+iv.1.6 credit market credit market y-o-y growth non-food credit decelerated h2 low 4.7 cent early picking 5.1 cent 17 2017. factors overstate slowdown
+outlined 2016 mpr credit flows impacted loan write-offs swapping bank credit special securities uday chart iv.12
+addition bank notes sbns repaying loans dampened growth rate bank credit
+demand side depressed investment cycle persisting excess capacity manufacturing deleveraging part corporates improve credit ratings explained chapter contributed slowdown credit growth
+deceleration credit growth highlights role supply side factors – stressed assets capital constraint – hindering revival credit cycle box iv.1 chart iv.13
+box iv.1 stressed assets capital constraints supply credit “ capital crunch hypothesis ” i.e. capital constrained banks cutting back lending highlighted key factor worsened recession early 1990s bernanke lown 1991
+theoretical empirical literature firmly established role “ capital channel ” operates supply side credit opposed typical focus monetary policy transmission demand side rivera 2015
+arguments highlighted debate role bank capital conditioning credit cycle
+endogenous money view banks fully meet demand loans credit-worthy borrowers funding constraint posed composition liabilities terms equity versus debt prevent banks
+macro view sync modigliani miller argument irrelevance capital structure applied banks i.e. composition liabilities banks influence price quantity credit
+post-keynesian emphasis credit rationing borrowers meet tighter credit standards set banks amidst recession heightened uncertainty change risk assessment banks fail access credit
+demand credit met
+banks face loss confidence arising unanticipated large increase stressed assets capital bolster loss absorbing capacity
+raising capital equity holders difficult costlier unattractive situation forcing banks deleverage
+reflect natural eventual outcome lack market regulatory discipline tendency evergreen bad loans
+adverse feedback loop sets inadequate capital leads cut backs lending viable projects
+turn deepens recession increases stressed assets reduces capital
+panel data indian banking system data 66 banks period q1 2009 q4 2016 applying models i.e. fixed effects random effects difference system generalised method moments gmm arellano-bond/bond-bover check robustness estimates found gross non-performing assets gnpa capital risk weighted assets ratio crar significantly influence credit growth
+capitalised banks exhibit higher credit growth banks higher gnpas experience weaker credit growth table 1
+table 1 determinants bank lending dependent variable δlcredit random effect model fixed effect model ab- diff
+gmm ab-system gmm δlcreditt-1 -0.12 -0.15 -0.18 -0.15 -1.7 -2.2 -3.0 -2.1 gnpat -0.64 -0.64 -0.56 -0.63 -7.6 -5.1 -4.5 -7.5 crart 0.16 0.25 0.36 0.16 5.9 5.3 3.3 6.0
+observations 1848 1848 1782 1848 ar1 p-value 0.01 0.01 ar2 p-value 0.20 0.30 hansen p-value 1.00 1.00 notes δlcredit credit growth q-o-q gnpa gross non-performing assets advances ratio crar capital risk weighted assets ratio
+estimations controlled seasonality nominal gva growth return equity repo rate adjustments
+figures parentheses z-statistics ar1 ar2 tests first-order second-order serial correlation
+hansen tests checking over-identifying restrictions gmm estimators
+significant 1 5 10 levels
+low net interest margin nim indicator efficient intermediation
+faced large stressed assets banks strive maintain/increase nims and/or reduce supply credit
+panel data data 72 banks period q2 2010 q4 2016 regression results suggest credit risk proxied stressed assets i.e. restructured assets gross npas total assets ratio positive statistically significant relationship nim banks percentage total assets table 2
+regression results positive standard deviation shock stressed assets lead 0.15 standard deviation increase nim
+table 2 determinants net interest margin ab – difference gmm ab – system gmm nim -1 0.542 0.568 stressed assets 0.011 0.008 crar 0.003 0.003 bank fixed effects observations 1944 1944 notes nim interest income minus interest expense total assets cent
+stressed assets restructured assets gross npas total assets cent
+regressions controlled seasonality credit growth bank size return assets operating expense -interest income investment slr securities gva growth inflation
+hansen test identification restrictions arellano-bond test residual auto correlations found satisfactory
+significant 1 level
+observed banks protect nim q3:2014-15. nim declined coincided sustained deceleration credit growth
+asset quality review initiated 2015 decline income explicit recognition npas lowered nim
+amplified risk aversion led deceleration credit growth
+references bernanke ben cara lown 1991 “ credit crunch ” brooking papers economic activity 2. rivera alvaro santos 2015 “ bank capital endogenous money liquidity preference capital constraints determinants credit rationing ” ecb
+sectoral data flow credit deceleration credit broad-based characterised sharp contraction exposure industry chart iv.14
+decline credit 12 18 major industry sub-groups y-o-y basis 2017. availability funding banks remained weak flow credit nbfcs3 quarters 2016-17 50 cent higher 2015-16 chart iv.15
+flow financial resources commercial sector 2016-17 mid-march lower period previous due lower lending banks
+non-bank sources funding foreign sources increased due marginally higher fdi inflows sharp increase short-term credit
+financing domestic sources increased primarily due higher funding nbfcs subscription commercial paper non-banks private placement non-financial entities notwithstanding diminished public issues table iv.3
+iv.2 monetary policy transmission monetary policy transmission strengthened h2 2016-17 aided surfeit liquidity
+share low cost current account savings account casa deposits aggregate deposits scbs 39.2 cent 17 2017 – increase 4.0 percentage points relative predemonetisation period
+prevailing risk aversion banks reduced term deposit rates
+median term deposit rate weighted average domestic term deposit rate wadtdr fell 37 bps 32 bps 2016-march 2017.4 combined sharp increase casa deposits cost borrowings declined creating space banks cut marginal cost funds based lending rates mclrs
+one-year median mclr declined cumulative 70 bps 2016 policy rate remained unchanged
+significant decline preceding months april-october 2016 – repo rate cut 50 bps – 15 bps chart iv.16
+post-demonetisation 2017 27 public sector banks reduced one-year median mclr range 50 105 bps 19 private sector banks range 25 148 bps
+table iv.3 flow financial resources commercial sector ₹ item 1 17 2015-16 2016-17 ₹ total ₹ total a. adjusted non-food bank credit nfc 7,754 54.8 4,818 38.2 non-food credit 7,024 49.6 3,655 29.0 non-slr investment scbs 731 5.2 1,164 9.2 b. flow non-banks b1+b2 6,403 45.2 7,802 61.8 b1
+domestic sources 4,479 31.6 5,511 43.7 1 public issues non-financial entities 363 2.6 120 1.0 2 gross private placements non-financial entities 985 7.0 1,599 12.7 3 net issuance cps subscribed non-banks 1,173 8.3 1,467 11.6 4 net credit housing finance companies 706 5.0 849 6.7 5 total accommodation 4 rbi regulated india financial institutions 459 3.2 218 1.7 6 nbfcs-d nbfcs-nd-si net borrowings banks/fis/cps 583 4.1 1,027 8.1 7 lic 's net investment corporate debt infrastructure social sector 210 1.5 230 1.8 b2
+foreign sources 1,924 13.6 2,290 18.1 1 external commercial borrowings fccb -329 -2.3 -412 -3.3 2 adr/gdr issues excluding banks financial institutions 0 0.0 0 0.0 3 short-term credit abroad -274 -1.9 167 1.3 4 foreign direct investment india 2,527 17.8 2,535 20.1 c. total flow resources a+b 14,157 100.0 12,620 100.0 note data provisional
+
+
+
+sources rbi lic nabard sebi
+comparison deposit rates mclr transmission actual lending rates complete post-demonetisation period
+2016 – 2017 weighted average lending rate walr banks respect fresh rupee loans declined 69 bps walr outstanding rupee loans declined 13 bps period
+transmission lending rates outstanding rupee loans vis-à-vis fresh rupee loans limited essentially account factors
+major portion loans contracted prior introduction mclr i.e. 2016 continued priced base rate5 fact loans contracted base rate constitute 67 cent banks ’ loan portfolios
+mclrbased pricing credit interest rate typically reset existing loans basis implying loans mclr regime contracted 2016 benefited sharp reduction mclr
+analysis factors hindering transmission bank level data quarters 2016-17 suggested presence positive correlation spread i.e. walr outstanding/fresh rupee loans mclr stressed assets banks implying banks charge additional risk premiums performing assets compensate interest income losses npas
+components mclr term deposit rates respond policy rate
+factor impeded monetary policy transmission interest rates small savings alignment movements market interest rates
+government announced revise interest rates small savings line change g-sec yields fully implemented box iv.2
+iv.3 liquidity conditions operating procedure monetary policy amended rbi act 1934 requires reserve bank place operating procedure relating implementation monetary policy thereto time time public domain
+operating procedure – embodied reserve bank ’ liquidity management framework – published box iv.i 2015 mpr
+operating procedure guided objective aligning operating target monetary policy – weighted average call money rate wacr – repo rate active liquidity management consistent stance monetary policy
+framework modified 2016 details presented 2016 mpr
+consistent assurance proactive management permanent frictional liquidity modified liquidity management framework 2016 guidance moving system average deficit equivalent cent net demand time liabilities ndtl position neutrality reserve bank injected permanent liquidity tune ₹1.9 april-october 2016 primarily open market purchase auctions ₹1.1
+balance reflected liquidity impact forex market operations reserve bank repurchase securities government
+box iv.2 transmission small savings rates g-sec yields 10-year maturity declined 2016-17 79 bps small savings rates remained unchanged q2 q4:2016-17 reduced 10 bps q3:2016- 17 q1:2017-18. time introduction formula based reset rates linked g-sec yields q1:2016-17 interest rates small savings broadly aligned interest rates derived formula fixing interest rate small savings
+spread actual rate interest formula based interest rate increased range 61 95 bps q1:2017-18 savings instruments table
+wide spread small savings rates bond yields makes small savings attractive vis-à-vis bank deposits discourages banks fully adjust deposit interest rates fear losing deposits hampering monetary transmission
+table interest rates small savings instruments q1 2017-18 small savings scheme maturity years spread percentage point average g-sec yield cent maturity 2016 2017 formula based rate interest cent applicable apr- 2017 goi announced rate interest cent applicable apr-jun 2017 difference percentage point 1 2 3 4 5 3 4 6 7 6 5 savings deposits 4.0 public provident fund 15 0.25 6.99 7.24 7.9 0.66 term deposits 1 1 0 6.09 6.09 6.9 0.81 2 2 0 6.20 6.20 7.0 0.80 3 3 0 6.31 6.31 7.2 0.89 5 5 0.25 6.54 6.79 7.7 0.91 post office recurring deposit account 5 0 6.31 6.31 7.2 0.89 post office income scheme 5 0.25 6.50 6.75 7.6 0.85 kisan vikas patra 113 months 0 6.99 6.99 7.6 0.61 nsc issue 5 0.25 6.70 6.95 7.9 0.95 senior citizens saving scheme 5 1.00 6.54 7.54 8.4 0.86 sukanya samriddhi account scheme 21 0.75 6.99 7.74 8.4 0.66 compounding frequency varies instruments
+announced government india 16 2016. source government india
+announcement demonetisation 8 2016 subsequent surge bank deposits reserve bank expanded range instruments absorbing record level surplus liquidity
+beginning q3 injection permanent liquidity consistent assurance modifications liquidity management framework 2016 moved system average surplus ₹293 q2
+cash balances government increased festival related currency demand drained liquidity banking system average system wide surplus declined ₹63
+demonetisation currency circulation declined ₹8,997 6 2017
+sudden increase liquidity banking system coupled weak demand credit explained section iv.1 necessitated significant step liquidity absorption operations reserve bank money market rates remained consistent policy repo rate
+reserve bank mix conventional unconventional instruments viz. temporary application icrr 100 cent increase ndtl banks 16 11 2016 open market sales cash management bills cmbs issued mss manage large surplus liquidity variable rate reverse repos tenors chart iv.17
+peak level liquidity absorbed reached ₹7,956 4 2017 ₹2,568 absorbed reverse repos ₹5,466 cmbs mss
+icrr place fortnight ended 9 2016
+helped draining excess liquidity system extent ₹4,000
+enhancement limit issuance securities mss ₹300 ₹6,000 2 2016 central government reserve bank withdrew icrr
+managed surplus liquidity conditions fine tuning reverse repos mss
+q4 remonetisation progressed accelerated pace currency circulation increasing cumulatively ₹4,373 chart iv.18
+reduced liquidity surplus system ₹3,141 end-march 2017. anticipation liquidity surplus declining due remonetisation reserve bank increasingly resorted reverse repo operations absorb surplus liquidity released maturing cmbs 14 2017. reserve bank absorbed average surplus liquidity ₹4,024 q3 demonetisation ₹5,932 q4
+ensured alignment wacr policy repo rate albeit soft bias
+post-demonetisation currency circulation contracted sbns returned public correspondingly deposits banks increased sharply chart iv.19
+sharp moderation currency deposit ratio led increase money multiplier offset impact contraction base money 22 cent 17 2017 period immediately prior demonetisation broad money m3
+structural surplus liquidity enabled banks meet liquidity coverage ratio lcr requirement tightened 70 cent 80 cent 2017. excess statutory liquidity ratio slr position banks 11 cent average q4 2016-17 included investment cmbs mss excess liquidity parked reserve bank reverse repo operations chart iv.20
+ahead liquidity conditions expected remain surplus short-run reserve bank continue modulate money market rates remain consistent operating target stance monetary policy
+progressively greater term reverse repos absorb surplus liquidity contribute development term money market
+change monetary policy stance accommodative neutral 2017 altered market expectations transmission past cumulative 175 bps cut repo rate lending rates remains incomplete
+resolution stressed assets recapitalisation public sector banks critical ease risk aversion banks
+enhance flow credit productive sectors improve monetary policy transmission
+1 model time varying conditional volatility recognising persistence shocks volatility integrated generalised autoregressive conditional heteroscedasticity igarch model restricted version garch model persistence parameters sum
+2 marked crucial step run planned introduction gst 1 2017 replace existing numerous central state taxes
+3 data pertain loans advances extended 400 nbfcs nbfcs-d nbfcs-nd-si submit returns rbi adjusted borrowings banks financial institutions cps
+4 wadtdr pertains 2016 2017
+5 individual borrowers migrate mclr based pricing loans 5 individual borrowers migrate mclr based pricing loans erstwhile bplr/base rate based pricing mutually acceptable terms
+v. external environment global economic activity trade picked modestly part 2016. firming commodity prices led uptick inflation major advanced economies aes
+recessionary conditions ebbed key commodity exporting emerging market economies emes setting stage turnaround emes group
+mpr 2016 global growth picked modestly end-2016 projected improve 2017 multilateral agencies
+growth emes moderated 2016 set improve ebbing recessionary conditions key commodity exporting countries
+world trade appeared emerged trough risks emerged increasing tendency protectionist policies heightened political tensions
+commodity prices risen late 2016 improvement economic indicators strong labour market consumer spending infrastructure spending china geopolitical concerns
+crude oil prices firmed opec announced curtailment production
+inflation edged expectations reflationary fiscal policies rising energy prices mild strengthening demand
+international financial markets impacted election results expectations monetary policy tightening federal reserve underpinned hawkish forward guidance
+financial markets emes briefly turned volatile election due large capital outflows leading plunges currency equity markets
+average volatility remained contained historical standards q4:2016. bond yields hardened globe tandem yields softening mid-march
+strengthening economy buoyed equity markets increasing likelihood rate hikes federal reserve 2017 hardened bond yields aes
+dollar appreciated multi-year high remained bullish
+v.1 global economic conditions economy bounced back strongly q3:2016 underpinned robust consumer spending continuing improvement labour market
+gdp growth decelerated sharply q4:2016 due large slippage net exports retail sales consumer confidence purchasing manufacturers ’ index pmi suggested sustained momentum
+domestic demand grew q-o-q fastest pace years
+consumer confidence reached 16-year high retail sales slowed
+institute supply management ’ ism index suggested manufacturing expanded fastest pace years
+euro area gdp growth accelerated h2:2016. low oil prices sustained employment gains provided support household incomes
+improving consumer confidence pmi rose six-year high activity continued expand q1:2017. nonetheless region remains vulnerable number headwinds formal beginning brexit process upcoming elections constituent countries tightening financial conditions
+japanese economy continued recover modest pace momentum weakened h2:2016. increases private consumption fixed investment moderate uptick exports industrial production end-2016
+manufacturing pmi improved moderated 2017. uk economic growth gained momentum h2 2016 notwithstanding uncertainties surrounding negotiations relating brexit exports rose substantially weakening pound
+manufacturing growth weakened consecutive months indicating possibility slowdown 2017 table v.1
+economic activity emes continued divergent
+china y-o-y gdp growth improved q4:2016 supported policy stimulus rising property market q-o-q growth showed sharp loss momentum
+industrial production pmi stabilised rising concerns high indebtedness financial stability
+growth target 2017 reduced 6.5 cent government
+brazil economic situation improved rise commodity prices measures reforming bankruptcy law announced authorities revive growth
+economic contraction eased russia improvement mining manufacturing sectors rise oil prices policy initiatives included flexible exchange rate bank recapitalisation
+south korea thailand mexico gdp growth lost momentum q3 q4:2016. imf growth aes emes pick 2017. oecd ’ composite leading indicators clis point growth accelerating japan china brazil russia stable momentum euro area tentative signs emerging momentum uk
+manufacturing activity remains weak countries underscored pmis chart v.1
+table v.1 real gdp growth q-o-q saar cent country q4-2015 q1-2016 q2-2016 q3-2016 q4-2016 2017 2018 advanced economies aes 0.9 0.8 1.4 3.5 2.1 2.3 2.5 euro area 2.0 2.0 1.2 1.6 1.6 1.6 1.6 japan -1.0 1.9 2.2 1.2 1.2 0.8 0.5 uk 2.8 0.8 2.4 2.0 2.8 1.5 1.4 canada 0.5 2.7 -1.2 3.8 2.6 1.9 2.0 korea 2.8 2.0 3.6 2.0 2.0 3.0 3.1 emerging market economies emes china 6.0 5.2 7.6 7.2 6.8 6.5 6.0 brazil -4.8 -2.4 -1.3 -2.9 -3.6 0.2 1.5 russia -3.2 -0.4 -0.5 -0.4 0.3 1.1 1.2 south africa 0.5 -1.5 3.1 0.4 -0.3 0.8 1.6 thailand 2.5 4.3 4.2 1.7 1.7 3.3 3.1 malaysia 4.8 4.0 2.8 5.6 5.6 4.6 4.7 mexico 1.6 1.9 0.4 4.2 2.8 1.7 2.0 saudi arabia 4.3 2.0 1.5 0.9 1.2 0.4 2.3 memo 2016 2017 2018 world output 3.1 3.4 3.6 world trade volume 1.9 3.8 4.1 estimate projection y-o-y growth
+sources bloomberg imf
+world trade growth improved q4:2016 largely supported emes imports aes moderated
+2017 exports rebounded sharply china brazil
+exports increased east asian economies
+merchandise services trade improved nominal terms remained long-term average chart v.2
+imf world bank project higher growth world trade volumes 2017. world trade outlook indicator world trade organisation wto global pmi export orders strengthening world trade growth momentum q1:2017. downside risks emanating heightened policy uncertainty uk proposals retreat multilateral/regional trade agreements raising tariffs non-tariff barriers consequent retaliation
+medium-term trade outlook expected remain weak revert pre-crisis level structural factors led decline income elasticity world trade
+recovery world trade diverge significantly regional blocs box v.1
+box v.1 global economic activity trade normal
+half 2011 global trade growth remained slower expansion world gdp 25 years global financial crisis trade growth gdp growth
+income elasticity trade fallen sharply post-crisis years
+main developments roughly equivalent contributions viz. compositional effects structural factors driving forces slowdown trade vis-à-vis economic growth
+compositional effects include shift economic activity trade aes emes declining share import-intensive component global demand shift trade manufacturing services
+factors necessarily structural revert medium-term global economy recovers fully
+structural factors set global recession reflect fundamental shifts working channels
+lower transportation costs removal trade barriers increase multilateral global trade agreements contributed expansion global trade waned
+global chains gvcs slowed sharply partly due rising labour costs emes partly account rising protectionism
+financial deepening facilitated export activity diminished
+interplay factors suggests relationship growth trade approaching normal ecb 2016
+constantinescu al
+2015 error correction model ecm data period 2000 2016 bai-perron tests suggest regimes model viz. 2000 2008 2008 2011 2011 2016 broadly coinciding pre-crisis period crisis period post-crisis period
+regimes long-run elasticity continuously declined 1.9 0.8. short-term elasticity increased sharply 0.9 crisis period 0.5 pre-crisis period falling 0.4 succeeding regime
+global trade grow fast past global growth recovers fully medium-term
+recovery regional trade growth diverge significantly shown var analysis.1 impulse response functions irfs trade shock world iip growth show impact aes emes aes impact japan euro area emes impact latin america highly fluctuating africa middle east affected charts
+references cristina constantinescu aaditya mattoo michele ruta 2015 “ global trade slowdown cyclical structural ” imf working paper wp/15/6
+european central bank 2016 “ understanding weakness global trade normal ” occasional paper series 178. v.2 commodity prices global inflation global supply/demand conditions expectations faster pace economic recovery continued drive commodity prices
+crude oil prices rose multiyear high 2016 opec members agreed cut production end-november 2016 chart v.3
+crude oil prices remained largely range bound shale production expected increase back higher oil rig count chart v.4a
+demand remain subdued sharp turnaround growth major oil importing emes
+strengthening dollar put downward pressure crude oil prices generally inverse relationship dollar oil prices
+borne recent data 1 2013 31 2017 show significant negative correlation 0.94 dollar index crude oil prices wti brent dubai fateh
+prices base metals bolstered markedly 2016 strong demand china expectation higher infrastructure spending proposed administration
+food agriculture organisation fao food price index moderated q4:2016 increased markedly months 2017 primarily driven cereal prices
+gold prices fell significantly q4:2016. expectations increase fiscal spending buoyed riskon sentiment leading fall safe demand
+increase long-term yields rate hike federal reserve led fall demand gold
+2017 gold prices recovered political uncertainties europe chart v.4b
+commodity oil prices rebounding spare capacity absorbed inflation expectations firming uptick inflation major aes recent period
+persisting economic slack inflation remained targets aes
+inflation sequentially accelerated reach level highest 2014. core personal consumption expenditure pce inflation remained stable 1.8 cent 2017. 1-year usd inflation swap rate indicator inflation expectations stable 2017. euro area inflation accelerated sequentially 2016 2017 2.0 cent highest 2013. core inflation remained steady 1.0 cent
+similarly uk inflation rose 2.3 cent 2017 1.6 cent highest 2014. contrast inflation japan turned positive consecutive months deflation remained low chart v.5a
+inflation major emes behaved divergently driven exchange rate movements idiosyncratic factors
+china korea thailand indonesia inflation remained low targets central banks mild uptick due food prices
+contrast inflation ebbed brazil russia helped currency appreciation backdrop recovery commodity prices
+major emes inflation pressures remain concern
+turkey high inflation trended upward recent months due currency depreciation
+high inflation persisted south africa due agricultural supply bottlenecks chart v.5b
+v.3 monetary policy stance monetary policy stance generally remained accommodative globally stimulus provided asset purchase programmes appears passed peak
+incoming data showing strengthening economy federal reserve raised target federal funds rate 2016 2017. federal reserve expects economic conditions evolve manner warrant gradual increases federal funds rate
+contrast ecb extended bond purchase programme end-december 2017. longer-lasting smoother transmission monetary stimulus extent purchases reduced 80 60 reducing minimum maturity bond purchases years
+ecb policy rate unchanged 2016. bank england monetary stance unchanged easing effected response brexit
+monetary stance left unchanged bank japan boj meeting 2017. major emes monetary policy stance driven domestic factors anticipation rate hike federal reserve
+china raised short term rates time months
+turkey raised policy rate stem currency depreciation midst domestic political uncertainty
+mexico raised policy rate times 2016 2017 counter currency depreciation additional inflationary pressures arising increase gasoline prices government
+contrast brazil cut policy rate times 2016 2017 economic recession inflationary pressure eased
+chile reduced policy rate 2017 chart v.6
+sum monetary policy stance emes remained divergent
+v.4 global financial markets generally improving macroeconomic environment beginning half 2016 global financial markets influenced events viz. election expectations materialisation policy rate hike federal reserve uncertainty surrounding brexit roadmap
+sovereign bond yields aes rose q4:2016. expectations fiscal stimulus quicker pace normalisation monetary policy led significant increase treasury bond yields
+term premia increased market-based measures inflation compensation contributed significantly rise yields
+euro area rising bond yields late 2016 boosted ecb ’ decision reduce quantum purchase assets resort purchase shorter-dated loweryielding securities 2016. rise yield played role firming yields euro area
+sovereign yields uk rose due expected macroeconomic outcomes obviated monetary policy easing rise inflation sharp depreciation pound
+contrast bond yields japan remained flat result active control yield curve bank japan chart v.7a
+emerging markets bond yields behaved divergently
+yields rose emes election countries greater trade linkages mexico
+china economic performance uptick inflation partly fuelled rise long-term bond yields
+contrast bond yields declined brazil central bank cut policy rate counter recession
+similarly bond yields declined russia recovery oil prices currency appreciation helped moderating inflation expectations
+optimism generated election alongside strengthening global recovery part 2016 led strong rally global equity markets
+msci world index measures global equity prices increased 9.7 cent 1 2016 3 2017. equity prices financial sector companies registered largest gains prospects regulation sector higher interest earnings due rising bond yields
+euro area improving macroeconomic environment played major role recovery equity prices helped improvement financial position european banks
+case japan depreciation yen boosted corporate earnings export earnings played major role
+equity prices emes fell initially due capital outflows concerns increasing trade protectionism rising borrowing costs
+subsequently equity prices recovered emes capital outflows ceased reversed initial exuberance economy subsided stance federal reserve turned hawkish
+brazil russia recovery commodity prices buoyed equity markets chart v.7b
+currency markets driven anticipation policy initiatives administration monetary policy stances major aes
+dollar appreciated currencies beginning early
+reached 14-year high reversal q1:2017 uncertainty realisation trump administration ’ policy initiatives expectations slower pace rate hikes federal reserve
+euro depreciated dollar political uncertainty
+pound volatile dollar – gained late early expectations favourable deal eu depreciated 2017 resurfacing uncertainty deal
+japanese yen depreciated yield spreads japan us/euro area widened narrowing q1 2017. currencies emes depreciated sharply 2016. central banks emes mexico malaysia indonesia turkey intervened currency markets stem depreciation leading losses reserves
+intervention mexican peso depreciated sharply due close trade financial linkages
+turkish lira depreciated due domestic political problems
+initial depreciation currencies major commodity exporting emes brazil russia south africa reversed rise commodity prices provided tailwinds chart v.8
+risk-on risk-off behaviour search yields important drivers portfolio flows recent period
+2016 cross border capital flows impacted heightened uncertainty abrupt political policy
+recent period portfolio flows returned emes shrugging rise interest rates emes continue provide attractive bond yields return equities
+sum modest turnaround global recovery part previous projected strengthen
+aes consolidate economic recovery ongoing slowdown emes reverse
+firming inflation aes expected largely remain stable 1-year inflation swap rate
+economic activity financial markets continue impacted political policy uncertainties monetary policy moves major aes
+1 consists endogenous variables world iip growth region trade growth lags based lag length selection criteria
+variables seasonally adjusted x12 arima log difference form
+abbreviations adr american depository receipt aes advanced economies aifis india financial institutions ar autoregression arima autoregressive integrated moving average arm additional revenue mobilisation budget estimates boj bank japan bse bombay stock exchange bps basis points bvar bayesian var bvarx bayesian varx casa current account saving account cblo collateralised borrowing lending obligation cds certificates deposit cga controller general accounts cgst central goods services tax ci confidence interval cii confederation indian industry cli composite leading indicator cmbs cash management bills cmie centre monitoring indian economy cpb central planning bureau cps commercial papers cpc central pay commission cpi consumer price index cpi-al consumer price index agricultural labourers cpi-iw consumer price index industrial workers cpi-rl consumer price index rural labourers crar capital risk-weighted assets ratio crr cash reserve ratio cso central statistics office dgci directorate general commercial intelligence statistics discoms distribution companies ecb european central bank ecbs external commercial borrowings ecm error correction model emdes emerging market developing economies emes emerging market economies eu european union fao food agriculture organisation fbs foreign banks fccb foreign currency convertible bond fcnr foreign currency non-resident fdi foreign direct investment ficci federation indian chamber commerce industry fi financial institution fimmda fixed income money markets derivatives association fipb foreign investment promotion board fmcg fast moving consumer goods fomc federal open market committee fpi foreign portfolio investment frbm fiscal responsibility budget management fr fixed rate fy financial garch generalised autoregressive conditional heteroscedasticity gdp gross domestic product gdr global depository receipt gfd gross fiscal deficit gfce government final consumption expenditure gfcf gross fixed capital formation gfc global financial crisis goi government india gmm generalised method moments gndi gross national disposable income gnpas gross non-performing assets g-secs government securities gsdp gross state domestic product gst goods services tax gvc global chain gva gross added h1 half h2 half hra house rent allowance icrr incremental cash reserve ratio igarch integrated generalised autoregressive conditional heteroscedasticity igst integrated goods services tax iip index industrial production iocl indian oil corporation limited ipo initial public offering imd india meteorological department imf international monetary fund ind-as indian accounting standard inr indian rupee irf impulse response function ism institute supply management jpc joint plant committee laf liquidity adjustment facility lcr liquidity coverage ratio lic life insurance corporation india lpg liquefied petroleum gas m3 broad money ma-sv moving average model stochastic volatility mb/d barrels mca ministry corporate affairs mclr marginal cost funds based lending rate mgnrega mahatma gandhi national rural employment guarantee act moci ministry commerce industry m-o-m month-on-month mpc monetary policy committee mpr monetary policy report msp minimum support price msci morgan stanley capital international msmes micro small medium enterprises mss market stabilisation scheme mvk multivariate kalman filter nabard national bank agriculture rural development nbfcs non-banking financial companies nbfcs-d deposit-taking nbfcs nbfcs-nd-si systemically important non-deposit taking nbfcs ncaer national council applied economic research ndtl net demand time liabilities nds-call negotiated dealing system-call neer nominal effective exchange rate nfc non-food credit nim net interest margin noaa national oceanic atmospheric administration non-it non-information technology npa non-performing asset nsdl national securities depository limited oecd organisation economic co-operation development omos open market operations opec organisation petroleum exporting countries orop rank pension pado public administration defence services pce partial credit enhancement pce personal consumption expenditure pc phillips curve pfce private final consumption expenditure pmi purchasing managers ’ index pol petroleum oil lubricant ppac petroleum planning analysis cell psbs public sector banks pvbs private sector banks q-o-q quarter-on-quarter rbi reserve bank india revised estimates reer real effective exchange rate rhs hand side rmses root square errors rrbs regional rural banks rw random walk saar seasonally adjusted annualised rate sae advance estimates sbns bank notes scbs scheduled commercial banks sdls state development loans sebi securities exchange board india slr statutory liquidity ratio sut supply table t-bill treasury bill trai telecom regulatory authority india tvw time varying weights tv-gdw time varying geometrically backward decaying weights uday ujwal discom assurance yojana uk united kingdom united states usd dollar var vector autoregression vr variable rate varx vector autoregression model exogenous variable wacr weighted average call money rate walr weighted average lending rate wadtdr weighted average domestic term deposit rate war weighted average rate wpi wholesale price index wti west texas intermediate wto world trade organisation y-o-y year-on-year
